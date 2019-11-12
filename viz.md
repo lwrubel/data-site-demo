@@ -9,3 +9,4 @@ bigimg: /img/start.jpg
 
 Example text. 
 
+![Bar chart of articles per year](/img/output.png)
